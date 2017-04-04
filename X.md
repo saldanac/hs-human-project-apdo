@@ -1,5 +1,5 @@
 X
-[InProgress]
+[Done]
 []
 []
 []
